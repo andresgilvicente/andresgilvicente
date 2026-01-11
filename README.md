@@ -2,7 +2,7 @@
 
 # Hi there, I'm Andrés Gil Vicente 👋
 
-<img src="assets/banner_readme.jpeg" height="200" width="100%" style="object-fit: cover; border-radius: 10px;" alt="Banner Math AI"/>
+<img src="Assets/banner_readme.jpeg" height="200" width="100%" style="object-fit: cover; border-radius: 10px;" alt="Banner Math AI"/>
 
 ---
 
