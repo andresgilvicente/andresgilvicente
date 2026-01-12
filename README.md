@@ -56,18 +56,18 @@ I combine strong mathematical foundations with advanced programming to solve com
   </tr>
   <tr>
     <td><b>🎾 <a href="https://github.com/andresgilvicente/padel-ai-system">Padel AI System</a></b></td>
-    <td>Autonomous referee using Computer Vision to detect faults and validate serves in real-time.</td>
+    <td>Autonomous video-referee using Computer Vision to detect faults and validate serves in real-time.</td>
     <td><code>YOLOv8</code> <code>OpenCV</code> <code>Streamlit</code></td>
   </tr>
   <tr>
-    <td><b>🧟 <a href="https://github.com/andresgilvicente/hordes-of-apocalypse">Hordes of Apocalypse</a></b></td>
-    <td>Survival game with Adaptive AI agents trained via Reinforcement Learning.</td>
-    <td><code>Unity</code> <code>C#</code> <code>ML-Agents</code></td>
+    <td><b>🏥 <a href="https://github.com/andresgilvicente/Hospital-Emergency-Energy-Optimization">Hospital Energy Optimization</a></b></td>
+    <td>Multi-Objective Optimization framework for managing critical hospital power supply during catastrophic blackouts.</td>
+    <td><code>Pyomo</code> <code>Multi-Goal</code> <code>MILP</code> <code>Optimization</code> </td>
   </tr>
   <tr>
-    <td><b>🧠 <a href="https://github.com/andresgilvicente/How-To-Train-Your-Perceptron">How-To-Train-Your-Perceptron</a></b></td>
-    <td>Interactive educational tool visualizing neural network training math.</td>
-    <td><code>Python</code> <code>Web</code> <code>Math</code></td>
+    <td><b>🎓 <a href="https://github.com/andresgilvicente/student-performance-ML-predictor">Student Performance Prediction</a></b></td>
+    <td>Predictive model analyzing socioeconomic factors to forecast student final academic performance.</td>
+    <td><code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code></td>
   </tr>
 </table>
 
