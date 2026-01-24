@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Mathematical Engineering & AI Student (Top 1% ICAI)
+### 🚀 Mathematical Engineering & AI Student - ICAI
 
 Currently focusing on **Deep Learning**, **Quantitative Finance**, and **Cloud Computing**.  
 I combine strong mathematical foundations with advanced programming to solve complex real-world problems.
