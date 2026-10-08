@@ -1,52 +1,64 @@
 <div align="center">
 
-# Hi there, I'm Andrés Gil Vicente 👋
-
-<img src="Assets/banner_readme.jpeg" height="350" width="100%" style="object-fit: cover; border-radius: 10px;" alt="Banner Math AI"/>
+<img src="Assets/banner_readme.jpeg" height="350" width="100%" style="object-fit: cover; border-radius: 10px;" alt="Andrés Gil Vicente"/>
 
 ---
 
-### 🚀 Mathematical Engineering & AI Student - ICAI
+### Mathematical Engineering & AI Student - ICAI
 
-Currently focusing on **Deep Learning**, **Quantitative Finance**, and **Cloud Computing**.  
+Currently focusing on **Cloud Computing** and **Agentic AI**.  
 I combine strong mathematical foundations with advanced programming to solve complex real-world problems.
 
 ---
 
-### 🧠 Skills & Tech Stack
+### Skills & Tech Stack
+
+#### Cloud & Data Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+#### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+#### AI, Machine Learning & Agents
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastMCP-000000?style=for-the-badge&logoColor=white" />
+</p>
 
 #### Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### Artificial Intelligence & Data Science
+#### Tools & Analytics
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-#### Tools, Cloud & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Featured Projects
+### Featured Projects
 
 <table align="center">
   <tr>
@@ -55,19 +67,19 @@ I combine strong mathematical foundations with advanced programming to solve com
     <th>Stack</th>
   </tr>
   <tr>
-    <td><b>🎾 <a href="https://github.com/andresgilvicente/padel-ai-system">Padel AI System</a></b></td>
-    <td>Autonomous video-referee using Computer Vision to detect faults and validate serves in real-time.</td>
+    <td><b><a href="https://github.com/andresgilvicente/padel-ai-system">Padel AI System</a></b></td>
+    <td>Autonomous chair umpire for padel. Validates serves (valid or fault) and enables secure access through geometric pattern recognition with a mobile camera.</td>
     <td><code>YOLOv8</code> <code>OpenCV</code> <code>Streamlit</code></td>
   </tr>
   <tr>
-    <td><b>🏥 <a href="https://github.com/andresgilvicente/Hospital-Emergency-Energy-Optimization">Hospital Energy Optimization</a></b></td>
-    <td>Multi-Objective Optimization framework for managing critical hospital power supply during catastrophic blackouts.</td>
-    <td><code>Pyomo</code> <code>Multi-Goal</code> <code>MILP</code> <code>Optimization</code> </td>
+    <td><b><a href="https://github.com/andresgilvicente/ai-financial-news-alerts">AI Financial News Alerts</a></b></td>
+    <td>NLP and Deep Learning course project. Generates financial alerts from news text and optional chart images, with entity recognition, sentiment analysis and chart captioning.</td>
+    <td><code>PyTorch</code> <code>BiLSTM-CRF</code> <code>DePlot</code> <code>Qwen2.5</code></td>
   </tr>
   <tr>
-    <td><b>🎓 <a href="https://github.com/andresgilvicente/student-performance-ML-predictor">Student Performance Prediction</a></b></td>
-    <td>Predictive model analyzing socioeconomic factors to forecast student final academic performance.</td>
-    <td><code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code></td>
+    <td><b><a href="https://github.com/andresgilvicente/aws-crypto-medallion-pipeline">AWS Crypto Medallion Pipeline</a></b></td>
+    <td>End-to-end crypto data platform on AWS. Bronze, Silver and Gold lakehouse with Glue, S3 and Athena, plus real-time VWAP streaming.</td>
+    <td><code>S3</code> <code>Glue</code> <code>Athena</code> <code>Kafka</code> <code>Spark</code> <code>Timestream</code></td>
   </tr>
 </table>
 
